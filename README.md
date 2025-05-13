@@ -12,4 +12,4 @@
     В ОС Windows средствами ПО PyCharm 2024.3.5 (Community Edition), в моём случае строка запуска выглядит так:
     
            C:\Users\avfofanov\PycharmProjects\PythonProject\.venv\Scripts\python.exe C:\Users\avfofanov\PycharmProjects\PythonProject\Wiki.py      
- 4. Результат работы скрипта отображен на скриншоте       
+ 4. Результат работы скрипта отображен на скриншотах       
